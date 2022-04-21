@@ -5,9 +5,8 @@
 layout: home
 ---
 
-![Filippo](/images/profile_picture.jpg)
-
-My name is Filippo Poltronieri and I am a Research Fellow at the Department of Engineering of the University of Ferrara.
+| :---        |    :----:   |
+|![Filippo](/images/poltronieri_rounded.jpeg)     | My name is Filippo Poltronieri and I am a Research Fellow at the Department of Engineering of the University of Ferrara.| 
 
 
 ## Biography
