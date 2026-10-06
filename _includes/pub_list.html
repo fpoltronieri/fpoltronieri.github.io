@@ -1,0 +1,34 @@
+{%- comment -%}
+  Renders entries from _data/publications.yml using the theme's publication styles.
+  Parameters:
+    type     - journal | conference | chapter (optional)
+    selected - true to show only entries marked "selected: true" (optional)
+{%- endcomment -%}
+{%- assign me = "F. Poltronieri" -%}
+<ol class="bibliography">
+{%- for p in site.data.publications -%}
+  {%- if include.type and p.type != include.type -%}{%- continue -%}{%- endif -%}
+  {%- if include.selected and p.selected != true -%}{%- continue -%}{%- endif -%}
+  <li><div class="row">
+    <div class="col-sm-2 abbr"><abbr class="badge">{{ p.abbr }}</abbr></div>
+    <div class="col-sm-10">
+      <div class="title">
+        {%- if p.doi -%}<a href="https://doi.org/{{ p.doi }}">{{ p.title }}</a>{%- else -%}{{ p.title }}{%- endif -%}
+      </div>
+      <div class="author">
+        {%- for a in p.authors -%}
+          {%- if a == me -%}<em>{{ a }}</em>{%- else -%}{{ a }}{%- endif -%}
+          {%- unless forloop.last -%}, {% endunless -%}
+        {%- endfor -%}
+      </div>
+      <div class="periodical"><em>{{ p.venue }}</em></div>
+      {%- if p.award or p.note -%}
+      <div class="links">
+        {%- if p.award -%}<span class="btn btn-sm z-depth-0 pub-award">🏆 {{ p.award }}</span>{%- endif -%}
+        {%- if p.note -%}<span class="btn btn-sm z-depth-0">{{ p.note }}</span>{%- endif -%}
+      </div>
+      {%- endif -%}
+    </div>
+  </div></li>
+{%- endfor -%}
+</ol>

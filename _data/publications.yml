@@ -1,0 +1,755 @@
+# Publications shown on the website (_pages/publications.md and the selected list on the home page).
+# Add new entries at the top. Fields: type (journal | conference | chapter), year, abbr (badge),
+# title, authors (in order; "F. Poltronieri" is highlighted), venue, doi, and optionally
+# award, note (e.g. Tutorial, Demo) and selected: true (shown on the home page).
+
+- type: chapter
+  year: 2026
+  abbr: Chapter
+  title: Internet and Digitalization for All
+  authors:
+  - H. Riazi
+  - M. Pradhan
+  - R. Blázquez García
+  - F. Poltronieri
+  venue: Meeting SDGs in Smart City Infrastructures, Elsevier, 2026, pp. 115–149
+  doi: 10.1016/B978-0-44-326594-5.00014-8
+- type: conference
+  year: 2026
+  abbr: NetSoft
+  title: 'KubeTwin 2.0: Demonstrating the Impact of Scheduling Strategies in Kubernetes'
+  authors:
+  - J. Santos
+  - D. Borsatti
+  - W. Cerroni
+  - M. Zaccarini
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - F. De Turck
+  venue: 2026 IEEE 12th International Conference on Network Softwarization (NetSoft 2026), Demo Track, 2026, pp. 348–350
+  doi: 10.1109/NetSoft70012.2026.11603551
+  note: Demo
+- type: conference
+  year: 2026
+  abbr: NetSoft
+  title: Unveiling the Impact of Scheduling Strategies in Kubernetes with the KubeTwin Platform
+  authors:
+  - J. Santos
+  - D. Borsatti
+  - W. Cerroni
+  - M. Zaccarini
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - F. De Turck
+  venue: 2026 IEEE 12th International Conference on Network Softwarization (NetSoft 2026), 2026, pp. 213–218
+  doi: 10.1109/NetSoft70012.2026.11603453
+- type: conference
+  year: 2026
+  abbr: NOMS
+  title: 'Learning to Orchestrate: AI and Digital Twin Approaches for the Compute Continuum'
+  authors:
+  - M. Zaccarini
+  - M. Tortonesi
+  - F. Poltronieri
+  venue: 2026 IEEE/IFIP Network Operations and Management Symposium (NOMS 2026), Tutorial, Rome, Italy, 2026, pp. 1–7
+  doi: 10.1109/NOMS69089.2026.11668325
+  note: Tutorial
+- type: conference
+  year: 2026
+  abbr: NOMS
+  title: 'From Intent to Manifest: Evaluation of LLM-Driven Generation of Custom Resources in Kubernetes'
+  authors:
+  - L. Ferrari
+  - M. Zaccarini
+  - J. Santos
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - F. De Turck
+  venue: 2026 IEEE/IFIP Network Operations and Management Symposium (NOMS 2026), Rome, Italy, 2026, pp. 1–9
+  doi: 10.1109/NOMS69089.2026.11668123
+  selected: true
+- type: conference
+  year: 2026
+  abbr: NOMS
+  title: 'GaiaRL: Multi-Objective RL for Sustainable VNF Placement in the Compute Continuum'
+  authors:
+  - M. Zaccarini
+  - J. Santos
+  - F. Poltronieri
+  - N. Di Cicco
+  - M. Tortonesi
+  - C. Stefanelli
+  - F. De Turck
+  venue: 2026 IEEE/IFIP Network Operations and Management Symposium (NOMS 2026), Rome, Italy, 2026
+  doi: 10.1109/NOMS69089.2026.11668312
+- type: conference
+  year: 2025
+  abbr: MCC
+  title: Towards Cognitive Microservice Orchestration in the Multi-Cloud Continuum
+  authors:
+  - E. Drudi
+  - G. Di Modica
+  - L. Foschini
+  - S. Galantino
+  - F. Risso
+  - U. Ardinghi
+  - F. Poltronieri
+  - M. Tortonesi
+  venue: 3rd International Workshop on Middleware for the Computing Continuum (MCC), co-located with the 26th ACM/IFIP International
+    Middleware Conference (Middleware 2025), 2025, pp. 7–12
+  doi: 10.1145/3774898.3778038
+- type: conference
+  year: 2025
+  abbr: CNSM
+  title: 'Beyond TimeGraph: A Comparative Analysis of Temporal Generators for Evolving Network Graphs'
+  authors:
+  - E. Di Caro
+  - N. Belletti
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  venue: 21st International Conference on Network and Service Management (CNSM 2025), Bologna, Italy, 2025, pp. 1–6
+  doi: 10.23919/CNSM67658.2025.11297461
+- type: conference
+  year: 2025
+  abbr: CNSM
+  title: Investigating Neurosymbolic AI for Intent-based Service Management
+  authors:
+  - L. Colombi
+  - S. Cavicchi
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - P. Varga
+  venue: 21st International Conference on Network and Service Management (CNSM 2025), Bologna, Italy, 2025, pp. 1–6
+  doi: 10.23919/CNSM67658.2025.11297547
+- type: conference
+  year: 2025
+  abbr: ISCC
+  title: 'FedEdge-Learn: a Semi-Supervised Federated Learning Framework for Industry 5.0'
+  authors:
+  - L. Colombi
+  - E. Di Caro
+  - S. Dahdal
+  - F. Poltronieri
+  - F. Tabanelli
+  - M. Tortonesi
+  - C. Stefanelli
+  - M. Vignoli
+  venue: 2025 IEEE Symposium on Computers and Communications (ISCC 2025), Bologna, Italy, 2025, pp. 1–6
+  doi: 10.1109/ISCC65549.2025.11326181
+- type: conference
+  year: 2025
+  abbr: NetSoft
+  title: 'TimeGraph: Synthetic Generation of Graph Sequences for Realistic Mobile Connectivity Models'
+  authors:
+  - E. Di Caro
+  - M. Brina
+  - N. Belletti
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  venue: 2025 IEEE 11th International Conference on Network Softwarization (NetSoft 2025), Budapest, Hungary, 2025, pp. 249–256
+  doi: 10.1109/NetSoft64993.2025.11080590
+- type: conference
+  year: 2025
+  abbr: NOMS
+  title: Chaos Engineering Based Kubernetes Pod Rescheduling Through Deep Sets and Reinforcement Learning
+  authors:
+  - M. Zaccarini
+  - F. Poltronieri
+  - D. Borsatti
+  - W. Cerroni
+  - L. Foschini
+  - G. Ya. Grabarnik
+  - D. Scotece
+  - L. Shwartz
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: 2025 IEEE/IFIP Network Operations and Management Symposium (NOMS 2025), Honolulu, HI, USA, 2025, pp. 1–7
+  doi: 10.1109/NOMS57970.2025.11073590
+- type: conference
+  year: 2025
+  abbr: NOMS
+  title: Hybridized Hot Restart via Reinforcement Learning for Microservice Orchestration
+  authors:
+  - M. Zaccarini
+  - F. Poltronieri
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: 2025 IEEE/IFIP Network Operations and Management Symposium (NOMS 2025), Honolulu, HI, USA, 2025, pp. 1–7
+  doi: 10.1109/NOMS57970.2025.11073715
+- type: journal
+  year: 2025
+  abbr: JNCA
+  title: 'RoamML Distributed Continual Learning: Adaptive and Flexible Data-driven Response for Disaster Recovery Operations'
+  authors:
+  - S. Dahdal
+  - S. Cavicchi
+  - A. Gilli
+  - F. Poltronieri
+  - M. Tortonesi
+  - N. Suri
+  - C. Stefanelli
+  venue: Journal of Network and Computer Applications (JNCA), vol. 243, art. no. 104322, 2025
+  doi: 10.1016/j.jnca.2025.104322
+- type: journal
+  year: 2025
+  abbr: FGCS
+  title: 'HephaestusForge: Optimal Microservice Deployment across the Compute Continuum via Reinforcement Learning'
+  authors:
+  - J. Santos
+  - M. Zaccarini
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Di Cicco
+  - F. De Turck
+  venue: Future Generation Computer Systems (FGCS), vol. 166, art. no. 107680, 2025
+  doi: 10.1016/j.future.2024.107680
+  award: Editor's Choice
+  selected: true
+- type: conference
+  year: 2024
+  abbr: MILCOM
+  title: Efficient Data Dissemination via Semantic Filtering at the Tactical Edge
+  authors:
+  - L. Colombi
+  - S. Dahdal
+  - E. Di Caro
+  - R. Fronteddu
+  - A. Gilli
+  - A. Morelli
+  - F. Poltronieri
+  - M. Tortonesi
+  - N. Suri
+  - C. Stefanelli
+  venue: 2024 IEEE Military Communications Conference (MILCOM 2024), Washington, DC, USA, 2024, pp. 457–462
+  doi: 10.1109/MILCOM61039.2024.10773700
+- type: conference
+  year: 2024
+  abbr: CNSM
+  title: Multi-Objective Scheduling and Resource Allocation of Kubernetes Replicas Across the Compute Continuum
+  authors:
+  - N. Di Cicco
+  - F. Poltronieri
+  - J. Santos
+  - M. Zaccarini
+  - M. Tortonesi
+  - C. Stefanelli
+  - F. De Turck
+  venue: 20th International Conference on Network and Service Management (CNSM 2024), Prague, Czech Republic, 2024, pp. 1–9
+  doi: 10.23919/CNSM62983.2024.10814307
+- type: conference
+  year: 2024
+  abbr: ISCC
+  title: 'RoamML Platform: Enabling Distributed Continual Learning for Disaster Relief Operations'
+  authors:
+  - S. Dahdal
+  - A. Gilli
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Suri
+  venue: 2024 IEEE Symposium on Computers and Communications (ISCC 2024), Paris, France, 2024, pp. 1–6
+  doi: 10.1109/ISCC61673.2024.10733586
+- type: conference
+  year: 2024
+  abbr: ISCC
+  title: 'TELKA: Twin-Enhanced Learning for Kubernetes Applications'
+  authors:
+  - M. Zaccarini
+  - D. Borsatti
+  - W. Cerroni
+  - L. Foschini
+  - G. Ya. Grabarnik
+  - L. Manca
+  - F. Poltronieri
+  - D. Scotece
+  - L. Shwartz
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: 2024 IEEE Symposium on Computers and Communications (ISCC 2024), Paris, France, 2024, pp. 1–6
+  doi: 10.1109/ISCC61673.2024.10733736
+- type: conference
+  year: 2024
+  abbr: NOMS
+  title: 'The Evolution of Kubernetes Management: Introducing the KubeTwin Framework'
+  authors:
+  - M. Zaccarini
+  - M. Tortonesi
+  - F. Poltronieri
+  venue: 2024 IEEE/IFIP Network Operations and Management Symposium (NOMS 2024), Seoul, Republic of Korea, 2024, pp. 1–4
+  doi: 10.1109/NOMS59830.2024.10575138
+- type: conference
+  year: 2024
+  abbr: NOMS
+  title: Efficient Microservice Deployment in Kubernetes Multi-Clusters through Reinforcement Learning
+  authors:
+  - J. Santos
+  - M. Zaccarini
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Di Cicco
+  - F. De Turck
+  venue: 2024 IEEE/IFIP Network Operations and Management Symposium (NOMS 2024), Seoul, Republic of Korea, 2024, pp. 1–9
+  doi: 10.1109/NOMS59830.2024.10575912
+  selected: true
+- type: conference
+  year: 2024
+  abbr: ICIN
+  title: 'VOICE: Value-of-Information for Compute Continuum Ecosystems'
+  authors:
+  - M. Zaccarini
+  - B. Cantelli
+  - M. Fazio
+  - W. Fornaciari
+  - F. Poltronieri
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: 27th Conference on Innovation in Clouds, Internet and Networks (ICIN 2024), Paris, France, 2024, pp. 73–80
+  doi: 10.1109/ICIN60470.2024.10494500
+- type: journal
+  year: 2024
+  abbr: TNSM
+  title: 'KubeTwin: A Digital Twin Framework for Kubernetes Deployments at Scale'
+  authors:
+  - D. Borsatti
+  - W. Cerroni
+  - L. Foschini
+  - G. Ya. Grabarnik
+  - L. Manca
+  - F. Poltronieri
+  - D. Scotece
+  - L. Shwartz
+  - C. Stefanelli
+  - M. Tortonesi
+  - M. Zaccarini
+  venue: IEEE Transactions on Network and Service Management (TNSM), vol. 21, no. 4, pp. 3889–3903, 2024
+  doi: 10.1109/TNSM.2024.3405175
+  selected: true
+- type: journal
+  year: 2024
+  abbr: TII
+  title: Chaos Engineering for Resilience Assessment of Digital Twins
+  authors:
+  - M. Fogli
+  - C. Giannelli
+  - F. Poltronieri
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: IEEE Transactions on Industrial Informatics (TII), vol. 20, no. 2, 2024
+  doi: 10.1109/TII.2023.3264101
+  selected: true
+- type: conference
+  year: 2023
+  abbr: CNSM
+  title: 'Characterization of Microservice Response Time in Kubernetes: A Mixture Density Network Approach'
+  authors:
+  - L. Manca
+  - D. Borsatti
+  - F. Poltronieri
+  - M. Zaccarini
+  - D. Scotece
+  - G. Davoli
+  - L. Foschini
+  - G. Ya. Grabarnik
+  - L. Shwartz
+  - C. Stefanelli
+  - M. Tortonesi
+  - W. Cerroni
+  venue: 19th International Conference on Network and Service Management (CNSM 2023), Niagara Falls, ON, Canada, 2023
+  doi: 10.23919/CNSM59352.2023.10327842
+  award: Best Paper Award + CNOM Best Paper Award 2024
+  selected: true
+- type: conference
+  year: 2023
+  abbr: MILCOM
+  title: 'Learning to Sail Dynamic Networks: The MARLIN Reinforcement Learning Framework for Congestion Control in Tactical
+    Environments'
+  authors:
+  - R. Galliera
+  - M. Zaccarini
+  - A. Morelli
+  - R. Fronteddu
+  - F. Poltronieri
+  - N. Suri
+  - M. Tortonesi
+  venue: 2023 IEEE Military Communications Conference (MILCOM 2023), Boston, MA, USA, 2023, pp. 424–429
+  doi: 10.1109/MILCOM58377.2023.10356270
+- type: conference
+  year: 2023
+  abbr: MILCOM
+  title: 'RoamML: Distributed Machine Learning at the Tactical Edge'
+  authors:
+  - S. Dahdal
+  - F. Poltronieri
+  - A. Gilli
+  - M. Tortonesi
+  - R. Fronteddu
+  - R. Galliera
+  - N. Suri
+  venue: 2023 IEEE Military Communications Conference (MILCOM 2023), Boston, MA, USA, 2023, pp. 33–38
+  doi: 10.1109/MILCOM58377.2023.10356274
+- type: conference
+  year: 2023
+  abbr: ISCC
+  title: Modeling Digital Twins of Kubernetes-Based Applications
+  authors:
+  - D. Borsatti
+  - W. Cerroni
+  - L. Foschini
+  - G. Ya. Grabarnik
+  - F. Poltronieri
+  - D. Scotece
+  - L. Shwartz
+  - C. Stefanelli
+  - M. Tortonesi
+  - M. Zaccarini
+  venue: 2023 IEEE Symposium on Computers and Communications (ISCC 2023), Tunis, Tunisia, 2023
+  doi: 10.1109/ISCC58397.2023.10217853
+- type: conference
+  year: 2023
+  abbr: ICMCIS
+  title: A Data Mesh Approach for Enabling Data-Centric Applications at the Tactical Edge
+  authors:
+  - S. Dahdal
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Suri
+  venue: 2023 International Conference on Military Communications and Information Systems (ICMCIS 2023), Skopje, North Macedonia,
+    2023
+  doi: 10.1109/ICMCIS59922.2023.10253568
+  award: Best Paper Award
+- type: journal
+  year: 2023
+  abbr: Future Internet
+  title: 'Reinforcement Learning vs. Computational Intelligence: Comparing Service Management Approaches for the Cloud Continuum'
+  authors:
+  - F. Poltronieri
+  - C. Stefanelli
+  - M. Tortonesi
+  - M. Zaccarini
+  venue: Future Internet, vol. 15, no. 11, art. no. 359, 2023
+  doi: 10.3390/fi15110359
+- type: journal
+  year: 2023
+  abbr: FGCS
+  title: Enabling Civil–Military Collaboration for Disaster Relief Operations in Smart City Environments
+  authors:
+  - L. Campioni
+  - F. Poltronieri
+  - C. Stefanelli
+  - N. Suri
+  - M. Tortonesi
+  - K. Wrona
+  venue: Future Generation Computer Systems (FGCS), vol. 139, 2023
+  doi: 10.1016/j.future.2022.09.020
+- type: conference
+  year: 2022
+  abbr: MILCOM
+  title: Enabling Adaptive Communications at the Tactical Edge
+  authors:
+  - C. Barz
+  - E. Cramer
+  - R. Fronteddu
+  - M. Hauge
+  - K. Marcus
+  - J. Nilsson
+  - F. Poltronieri
+  - M. Tortonesi
+  - N. Suri
+  - M. Zaccarini
+  venue: 2022 IEEE Military Communications Conference (MILCOM 2022), Rockville, MD, USA, 2022
+  doi: 10.1109/MILCOM55135.2022.10017459
+- type: conference
+  year: 2022
+  abbr: NOMS
+  title: Value-of-Information Middleware Solutions for Fog and Edge Computing
+  authors:
+  - F. Poltronieri
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: 2022 IEEE/IFIP Network Operations and Management Symposium (NOMS 2022), Dissertation Digest Track, Budapest, Hungary,
+    2022
+  doi: 10.1109/NOMS54207.2022.9789944
+  note: Dissertation Digest
+- type: conference
+  year: 2022
+  abbr: NOMS
+  title: A Chaos Engineering Approach for Improving the Resiliency of IT Services Configurations
+  authors:
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  venue: 2022 IEEE/IFIP Network Operations and Management Symposium (NOMS 2022), TNT Workshop, Budapest, Hungary, 2022
+  doi: 10.1109/NOMS54207.2022.9789887
+- type: conference
+  year: 2022
+  abbr: NOMS
+  title: 'Water 4.0: Enabling Smart Water and Environmental Data Metering'
+  authors:
+  - N. Caldognetto
+  - L. P. Evangelisti
+  - F. Poltronieri
+  - M. Russo
+  - C. Stefanelli
+  - S. Tenani
+  - S. Toboli
+  - M. Tortonesi
+  venue: 2022 IEEE/IFIP Network Operations and Management Symposium (NOMS 2022), 2nd Manage-IoT Workshop, Budapest, Hungary,
+    2022
+  doi: 10.1109/NOMS54207.2022.9789880
+- type: journal
+  year: 2022
+  abbr: JNSM
+  title: 'Value is King: the MECForge Deep Reinforcement Learning Solution for Resource Management in 5G and Beyond'
+  authors:
+  - F. Poltronieri
+  - C. Stefanelli
+  - N. Suri
+  - M. Tortonesi
+  venue: Journal of Network and Systems Management (JNSM), vol. 30, no. 4, 2022
+  doi: 10.1007/s10922-022-09672-6
+- type: journal
+  year: 2022
+  abbr: TNSM
+  title: 'BDMaaS+: Business-driven and Simulation-based Optimization of IT Services in the Hybrid Cloud'
+  authors:
+  - W. Cerroni
+  - L. Foschini
+  - G. Ya. Grabarnik
+  - F. Poltronieri
+  - L. Shwartz
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: IEEE Transactions on Network and Service Management (TNSM), vol. 19, no. 1, pp. 322–337, 2022
+  doi: 10.1109/TNSM.2021.3110139
+- type: journal
+  year: 2022
+  abbr: IJNM
+  title: A Value-of-Information-based Management Framework for Fog Services
+  authors:
+  - F. Poltronieri
+  - M. Tortonesi
+  - A. Morelli
+  - C. Stefanelli
+  - N. Suri
+  venue: International Journal of Network Management (IJNM), vol. 32, no. 1, art. no. e2156, 2022
+  doi: 10.1002/nem.2156
+- type: conference
+  year: 2021
+  abbr: CNSM
+  title: 'ChaosTwin: A Chaos Engineering and Digital Twin Approach for the Design of Resilient IT Services'
+  authors:
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  venue: 17th International Conference on Network and Service Management (CNSM 2021), short paper, Izmir, Turkey (virtual),
+    2021
+  doi: 10.23919/CNSM52442.2021.9615519
+- type: conference
+  year: 2021
+  abbr: IM
+  title: Reinforcement Learning for Value-based Placement of Fog Services
+  authors:
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Suri
+  venue: 2021 IFIP/IEEE International Symposium on Integrated Network Management (IM 2021), virtual conference, 2021
+- type: conference
+  year: 2020
+  abbr: NOMS
+  title: Value of Information based Optimal Service Fabric Management for Fog Computing
+  authors:
+  - F. Poltronieri
+  - M. Tortonesi
+  - A. Morelli
+  - C. Stefanelli
+  - N. Suri
+  venue: 2020 IEEE/IFIP Network Operations and Management Symposium (NOMS 2020), Budapest, Hungary (virtual), 2020
+  doi: 10.1109/NOMS47738.2020.9110359
+  award: Best Student Paper Award
+- type: journal
+  year: 2020
+  abbr: IEEE Access
+  title: 'HOlistic pRocessing and NETworking (HORNET): An Integrated Solution for IoT-based Fog Computing Services'
+  authors:
+  - P. Bellavista
+  - C. Giannelli
+  - D. D. Padalino Montenero
+  - F. Poltronieri
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: IEEE Access, vol. 8, pp. 66707–66721, 2020
+  doi: 10.1109/ACCESS.2020.2984930
+- type: conference
+  year: 2019
+  abbr: MILCOM
+  title: 'MARGOT: Dynamic IoT Resource Discovery for HADR Environments'
+  authors:
+  - L. Campioni
+  - R. Lenzi
+  - F. Poltronieri
+  - M. Pradhan
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Suri
+  venue: 2019 IEEE Military Communications Conference (MILCOM 2019), Norfolk, VA, USA, 2019
+  doi: 10.1109/MILCOM47813.2019.9021092
+- type: conference
+  year: 2019
+  abbr: ICMCIS
+  title: Dynamic Resource Discovery and Management for Edge Computing Based on SPF for HADR Operations
+  authors:
+  - M. Pradhan
+  - F. Poltronieri
+  - M. Tortonesi
+  venue: 2019 International Conference on Military Communications and Information Systems (ICMCIS 2019), Budva, Montenegro,
+    2019
+  doi: 10.1109/ICMCIS.2019.8842693
+- type: conference
+  year: 2019
+  abbr: WF-IoT
+  title: Generic Architecture for Edge Computing Based on SPF for Military HADR Operations
+  authors:
+  - M. Pradhan
+  - F. Poltronieri
+  - M. Tortonesi
+  venue: IEEE 5th World Forum on Internet of Things (WF-IoT 2019), Special Session on Military Applications of IoT, Limerick,
+    Ireland, 2019
+  doi: 10.1109/WF-IoT.2019.8767181
+- type: journal
+  year: 2019
+  abbr: Sensors
+  title: Wireless Middleware Solutions for Smart Water Metering
+  authors:
+  - S. Alvisi
+  - F. Casellato
+  - M. Franchini
+  - M. Govoni
+  - C. Luciani
+  - F. Poltronieri
+  - G. Riberto
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: Sensors, vol. 19, no. 8, art. no. 1853, 2019
+  doi: 10.3390/s19081853
+- type: conference
+  year: 2018
+  abbr: ICCRTS
+  title: Efficient and Secure Multi-domain Information Sharing in Tactical Networks
+  authors:
+  - F. Poltronieri
+  - L. Campioni
+  - R. Fronteddu
+  - R. Lenzi
+  - M. Mantovani
+  - A. Morelli
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Suri
+  venue: 23rd International Command and Control Research and Technology Symposium (ICCRTS 2018), Pensacola, FL, USA, 2018
+- type: conference
+  year: 2018
+  abbr: ICCRTS
+  title: 'Analyzing and Evaluating Information-Centric and Value-based Fog Service Architectures in Military Environments:
+    The Phileas Simulator'
+  authors:
+  - F. Poltronieri
+  - M. Tortonesi
+  - C. Stefanelli
+  - N. Suri
+  venue: 23rd International Command and Control Research and Technology Symposium (ICCRTS 2018), Pensacola, FL, USA, 2018
+- type: conference
+  year: 2018
+  abbr: MILCOM
+  title: Enabling Efficient and Interoperable Control of IoBT Devices in a Multi-force Environment
+  authors:
+  - F. Poltronieri
+  - L. Sadler
+  - G. Benincasa
+  - T. Gregory
+  - J. M. Harrell
+  - S. Metu
+  - C. Moulton
+  venue: 2018 IEEE Military Communications Conference (MILCOM 2018), Los Angeles, CA, USA, 2018, pp. 757–762
+  doi: 10.1109/MILCOM.2018.8599740
+- type: conference
+  year: 2018
+  abbr: MILCOM
+  title: Experimental Evaluation of Group Communications Protocols for Tactical Data Dissemination
+  authors:
+  - N. Suri
+  - R. Fronteddu
+  - E. Cramer
+  - M. Breedy
+  - K. Marcus
+  - R. in ’t Velt
+  - J. Nilsson
+  - M. Mantovani
+  - L. Campioni
+  - F. Poltronieri
+  - G. Benincasa
+  - B. Ordway
+  - M. Peuhkuri
+  - M. Rautenberg
+  venue: 2018 IEEE Military Communications Conference (MILCOM 2018), Los Angeles, CA, USA, 2018, pp. 133–139
+  doi: 10.1109/MILCOM.2018.8599749
+- type: conference
+  year: 2018
+  abbr: MILCOM
+  title: Secure Multi-domain Information Sharing in Tactical Networks
+  authors:
+  - F. Poltronieri
+  - L. Campioni
+  - R. Lenzi
+  - A. Morelli
+  - N. Suri
+  - M. Tortonesi
+  venue: 2018 IEEE Military Communications Conference (MILCOM 2018), Los Angeles, CA, USA, 2018
+  doi: 10.1109/MILCOM.2018.8599693
+- type: conference
+  year: 2018
+  abbr: CAMAD
+  title: Supporting the Development of Next-generation Fog Services
+  authors:
+  - C. Giannelli
+  - F. Poltronieri
+  - C. Stefanelli
+  - M. Tortonesi
+  venue: 23rd IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD
+    2018), Barcelona, Spain, 2018
+  doi: 10.1109/CAMAD.2018.8514970
+- type: conference
+  year: 2018
+  abbr: CAMAD
+  title: 'Phileas: A Simulation-based Approach for the Evaluation of Value-based Fog Services'
+  authors:
+  - F. Poltronieri
+  - C. Stefanelli
+  - N. Suri
+  - M. Tortonesi
+  venue: 23rd IEEE International Workshop on Computer Aided Modeling and Design of Communication Links and Networks (CAMAD
+    2018), Barcelona, Spain, 2018
+  doi: 10.1109/CAMAD.2018.8514969
+- type: conference
+  year: 2018
+  abbr: ICMCIS
+  title: A Secure Group Communication Approach for Tactical Network Environments
+  authors:
+  - F. Poltronieri
+  - R. Fronteddu
+  - C. Stefanelli
+  - N. Suri
+  - M. Tortonesi
+  - M. Paulini
+  - J. Milligan
+  venue: 2018 International Conference on Military Communications and Information Systems (ICMCIS 2018), Warsaw, Poland, 2018
+  doi: 10.1109/ICMCIS.2018.8398696

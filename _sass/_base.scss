@@ -724,3 +724,16 @@ progress {
      display: block;
      height: inherit;
  }
+
+// Badges for awards and notes in the data-driven publication list (_includes/pub_list.html)
+.publications ol.bibliography li .links span.btn {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-text-color);
+  padding: 0.1rem 0.75rem;
+  margin-right: 0.25rem;
+  cursor: default;
+  &.pub-award {
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
+}
