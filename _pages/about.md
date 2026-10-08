@@ -9,7 +9,7 @@ profile:
   image: filippo-2026.jpg
   image_circular: true # crops the image to make it circular
 
-news: true
+news: false
 selected_papers: true
 social: true
 ---
