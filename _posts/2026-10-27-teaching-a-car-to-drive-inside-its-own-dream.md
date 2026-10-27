@@ -30,9 +30,9 @@ _styles: >
 ---
 
 Some months ago I started thinking about what to do next in my research career. I was at the ICIN
-2026 conference in Athens, chatting with colleagues. When most of your time goes into teaching, it
-is genuinely hard to find a moment to plan the steps ahead, and a conference corridor is sometimes
-the only place where it happens.
+2026 conference in Athens, chatting with colleagues. Between teaching and everything else the
+academic year brings, it is genuinely hard to find a moment to plan the steps ahead, and a
+conference corridor is sometimes the only place where it happens.
 
 I knew I wanted to do something around prediction and forecasting in the area of digital twins.
 
